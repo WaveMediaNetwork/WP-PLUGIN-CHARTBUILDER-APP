@@ -1,0 +1,25 @@
+.cba-wrapper {
+    max-width: 70% !important;
+    margin: 0 auto !important;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#cba-navigation {
+    flex-basis: 25%;
+}
+
+#cba-main-container {
+    flex-basis: 70%;
+}
+
+.cba-section-wrapper {
+    display: none;
+}
+
+.cba-section-wrapper.active {
+    display: block;
+}

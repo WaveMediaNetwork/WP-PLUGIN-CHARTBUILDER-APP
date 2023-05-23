@@ -4,36 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e0e5907-af8d-4923-a615-0d04020b6e0b" name="Changes" comment="all files">
+    <list default="true" id="7e0e5907-af8d-4923-a615-0d04020b6e0b" name="Changes" comment="plugin missing file">
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/chartbuilderapp/assets/css/cba-front-end.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/chartbuilderapp/assets/js/cba-front-end.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/chartbuilderapp/includes/frontend.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/chartbuilderapp/templates/all-charts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/chartbuilderapp/templates/charts.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/.htaccess" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/img/logo-a-2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/img/logo-full-2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/akismet.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/changelog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-admin.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-cli.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-rest-api.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-widget.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/activate.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/config.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/connect-jp.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/enter.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/get.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/notice.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/predefined.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/setup.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/start.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/stats.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/title.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/wrapper.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/hello.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/chartbuilderapp/admin-pages/admin-page.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/chartbuilderapp/admin-pages/chart-library.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/chartbuilderapp/assets/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/chartbuilderapp/assets/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/chartbuilderapp/chartbuilderapp.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/chartbuilderapp/chartbuilderapp.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/chartbuilderapp/includes/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/chartbuilderapp/includes/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/chartbuilderapp/languages/plugin-name.pot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/chartbuilderapp/main-plugin-file.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/chartbuilderapp/templates/account-settings.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/chartbuilderapp/templates/account-settings.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/chartbuilderapp/templates/homepage.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/chartbuilderapp/templates/homepage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/chartbuilderapp/templates/my-charts.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/chartbuilderapp/templates/my-charts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/chartbuilderapp/templates/organization-management.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/chartbuilderapp/templates/organization-management.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/chartbuilderapp/templates/receipts.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/chartbuilderapp/templates/receipts.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,20 +76,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/flavius/Work/cozmoslabs-docker/projects/chartbuilderapp&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Constants": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/flavius/Work/cozmoslabs-docker/projects/chartbuilderapp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -121,6 +112,8 @@
       <workItem from="1684790628549" duration="65000" />
       <workItem from="1684790703414" duration="783000" />
       <workItem from="1684791517597" duration="451000" />
+      <workItem from="1684793653538" duration="25000" />
+      <workItem from="1684793716872" duration="7392000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1684787172995</created>
@@ -143,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684790140785</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="plugin missing file">
+      <created>1684792960231</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684792960231</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +175,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="all files" />
-    <option name="LAST_COMMIT_MESSAGE" value="all files" />
+    <MESSAGE value="plugin missing file" />
+    <option name="LAST_COMMIT_MESSAGE" value="plugin missing file" />
   </component>
 </project>

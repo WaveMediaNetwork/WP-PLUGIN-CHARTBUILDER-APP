@@ -1,4 +1,3 @@
-/**
-* A PHP file that contains the template for the account settings page,
-* where users can update their account information.
-*/
+<div class="cba-section-wrapper" id="cba-account">
+    <h3>Account Settings</h3>
+</div>

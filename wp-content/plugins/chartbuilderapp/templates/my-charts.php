@@ -1,3 +1,3 @@
-/**
-* A PHP file that represents the template for displaying the user's created charts.
-*/
+<div class="cba-section-wrapper" id="cba-my-charts">
+    <h3>My Charts</h3>
+</div>

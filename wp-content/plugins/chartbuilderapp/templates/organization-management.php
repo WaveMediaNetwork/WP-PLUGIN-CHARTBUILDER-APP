@@ -1,4 +1,3 @@
-/**
-* A PHP file that defines the template for the organization
-* management page visible to administrators.
-*/
+<div class="cba-section-wrapper" id="cba-organization">
+    <h3>Organization Management</h3>
+</div>

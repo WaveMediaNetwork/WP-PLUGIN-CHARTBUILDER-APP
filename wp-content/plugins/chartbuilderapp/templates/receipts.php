@@ -1,3 +1,3 @@
-/**
-* A PHP file that represents the template for displaying user purchase receipts.
-*/
+<div class="cba-section-wrapper" id="cba-receipts">
+    <h3>Receipts</h3>
+</div>
